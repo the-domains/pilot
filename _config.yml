@@ -1,0 +1,14 @@
+layout_spectrum: 0.06998314
+color:
+  saturation: 0.3474888
+  lightness: 0.7158516
+  brandStrength: 0.8693086
+  brandColors:
+    - '#EBEBEB'
+    - '#1D1E22'
+    - '#7D7C81'
+    - '#7F4128'
+    - '#E2B14B'
+  rhythmicContrast: 0.7596965
+typography_spectrum: 0.9064081
+name: Pilot
